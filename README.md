@@ -23,7 +23,7 @@ After that, I generate and fund a new bitcoin address:
 ![image](https://user-images.githubusercontent.com/70483213/158057433-1861ab5a-f6dd-4216-a529-664bce825002.png)
 
 
-Now I have create a digital certification of a member of staff at Santa Fe Court of Law:
+Now I have created a digital certification of a member of staff at Santa Fe Court of Law:
 
 ![image](https://user-images.githubusercontent.com/70483213/158057485-7f8ec5c9-fca1-4ce6-9fc6-30f3271d0e28.png)
 
